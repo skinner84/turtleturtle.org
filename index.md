@@ -111,3 +111,6 @@ title: TurtleTurtle.org
 [CryptoPricer](https://cryptopricer.net/currency/turtlecoin) → CryptoPricer  
 [LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL) → LiveCoinWatch  
 [WorldCoinIndex](https://www.worldcoinindex.com/coin/turtlecoin) → WorldCoinIndex  
+
+### User-Hosted Nodes
+skinnerturtle.ddns.net:11898 → Skinner's Australian Node
